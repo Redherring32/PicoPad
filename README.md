@@ -8,7 +8,7 @@ The world's smallest functional NES controller
 
 * PicoPad.pretty: Library of all the custom footprints used on the board
 
-![PicoPad]([https://i.imgur.com/c8VtS8x.jpg])
+![PicoPad](https://i.imgur.com/c8VtS8x.jpg)
 
 ## License:
 Licensed under the TAPR Open Hardware License (www.tapr.org/OHL)
